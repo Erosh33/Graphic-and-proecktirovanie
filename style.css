@@ -1,0 +1,130 @@
+.textred{ 
+    color: red; 
+} 
+.textblack{ 
+    color: black; 
+} 
+.center { 
+    text-align: center; 
+  } 
+.box{ 
+    height: 100vh; 
+    background-color: cornflowerblue;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    
+    
+} 
+.big-font { 
+    font-size: 20px;  
+  } 
+  .rounded-rectangle { 
+    text-decoration: none;
+    width: 120px;  
+    height: 45px;  
+    background-color: rgb(255, 255, 255);  
+    border-radius: 20px;  
+    color: rgb(0, 0, 0);  
+    text-align: center;  
+    margin-left: 20px;
+    margin-right: 20px;
+    
+  }
+.ru{
+    display:flex;
+    
+    text-decoration: none;
+
+}
+.box1{ 
+    height: 100vh; 
+    background-color: cornflowerblue; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    margin-top: 100px;}
+    
+    
+.hh{
+    width: 100%;
+    margin-top: 20px;
+}
+.gg{
+    margin-left: 280px;
+    margin-top: 220px;
+}
+.gg1{
+    margin-left: 200px ;
+    margin-top: 100px;
+}
+.gg2{
+    margin-left: 120px;
+}
+.gg3{
+    margin-left: 280px;
+    margin-top: 70px;
+}
+.gg4{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.box2{ 
+    height: 100vh; 
+    background-color: cornflowerblue; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    margin-top: 10px;}
+
+.gg5{
+    margin-left: 170px;
+    margin-top: 70px;
+    max-width: 50%;
+
+}
+.gg6{
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-right: 120px;
+}
+.gg7{
+    
+    margin-top: 70px;
+    
+}
+.box3{ 
+    height: 350vh; 
+    background-color: cornflowerblue; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    margin-top: 135px;}
+.container {
+        position: relative;
+        text-align: center;
+        color: white;
+        top: 60px;
+        right: 20px;
+        
+    }
+.gg8{
+    margin-left: 90px;
+}    
+.gg9{
+    margin-top: 90px;
+    margin-left: 50px;
+}   
+.box4{ 
+    height: 200vh; 
+    background-color: cornflowerblue; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}    
+    
+.ru1{
+    display:flex;
+    margin-top: 50px;
+    text-decoration: none;
+
+}    
+    
+    
+    
+    
